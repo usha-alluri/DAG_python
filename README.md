@@ -19,8 +19,6 @@ See a sample graph below.
 
 # Structure:
 ````
-Schwab/
-│
 ├── main.py                  # Main FastAPI app
 │
 └── utils/
